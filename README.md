@@ -2,7 +2,7 @@
 <p>Welcome to my GitHub! I'm IllusiveHacks, a passionate ethical hacker and programmer on a mission to push the boundaries of technology, security, and innovation. I specialize in a variety of fields, from building powerful scripts to designing complex applications and tools for both security testing and ethical hacking.</p>
 
 <!-- Add GIF below the heading -->
-<img src= "hack-hacker.gif" alt="Animated GIF" width="100%" height="300" />
+<img src= "hack-hacker.gif" alt="Animated GIF" width="250" height="250" />
 <p>A passionate ethical hacker</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" /></a>
