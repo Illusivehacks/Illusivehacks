@@ -1,4 +1,4 @@
-<h1>🔥 IllusiveHacks | Cybersecurity Enthusiast & Programmer 🔥
+<h1><b>🔥 IllusiveHacks | Cybersecurity Enthusiast & Programmer 🔥</b>
 Welcome to my GitHub! I'm IllusiveHacks, a passionate ethical hacker and programmer on a mission to push the boundaries of technology, security, and innovation. I specialize in a variety of fields, from building powerful scripts to designing complex applications and tools for both security testing and ethical hacking.</h1>
 <p>A passionate ethical hacker</p>
 <h2>🚀 Languages and Tools I Use</h2>
