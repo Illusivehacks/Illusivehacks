@@ -50,6 +50,14 @@
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Illusivehacks" alt="Illusivehacks" /></a></p>
 
 <img src="https://raw.githubusercontent.com/rayder-dev/rayder-dev/output/snake.svg" alt="Snake animation" />
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<div align="center" style="display: flex; align-items: center; justify-content: center;">
+    <img src="https://github.com/user-attachments/assets/3dcdd41e-3ba5-4ea2-8c0c-eee23b80f43b" width="30">
+    <img alt="visitors counter" src="https://profile-counter.glitch.me/rayder-dev/count.svg">    
+    <img src="https://github.com/user-attachments/assets/3dcdd41e-3ba5-4ea2-8c0c-eee23b80f43b" width="30">
+</div>
+
 <h2>❤️ Support Me</h2>
 <p><p>
 <a href="https://www.buymeacoffee.com/M-PESA EXPRESS - 0743844485">
