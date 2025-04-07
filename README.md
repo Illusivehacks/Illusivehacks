@@ -48,6 +48,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Illusivehacks&" alt="Illusivehacks" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Illusivehacks&show_icons=true&locale=en&layout=compact" alt="Illusivehacks" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Illusivehacks" alt="Illusivehacks" /></a></p>
+
+<img src="https://raw.githubusercontent.com/rayder-dev/rayder-dev/output/snake.svg" alt="Snake animation" />
 <h2>❤️ Support Me</h2>
 <p><p>
 <a href="https://www.buymeacoffee.com/M-PESA EXPRESS - 0743844485">
