@@ -1,4 +1,4 @@
-y<h1><b>🔥 IllusiveHacks | Cybersecurity Enthusiast & Programmer 🔥</b></h1>
+<h1><b>🔥 IllusiveHacks | Cybersecurity Enthusiast & Programmer 🔥</b></h1>
 <img src= "header.png" alt="Animated Image"/>
 <p>Welcome to my GitHub! I'm IllusiveHacks, a passionate ethical hacker and programmer on a mission to push the boundaries of technology, security, and innovation. I specialize in a variety of fields, from building powerful scripts to designing complex applications and tools for both security testing and ethical hacking.</p>
 <!-- Add GIF below the heading -->
