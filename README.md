@@ -56,7 +56,6 @@
     <img alt="visitors counter" src="https://profile-counter.glitch.me/rayder-dev/count.svg">    
     <img src="https://github.com/user-attachments/assets/3dcdd41e-3ba5-4ea2-8c0c-eee23b80f43b" width="30">
 </div>
-<img src="https://github-stats-alpha.vercel.app/api?username={Illusivehacks}"/>
 <h2>❤️ Support Me</h2>
 <p><p>
 <a href="https://www.buymeacoffee.com/M-PESA EXPRESS - 0743844485">
